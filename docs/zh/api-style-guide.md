@@ -2,7 +2,7 @@
 
 Bytebase 使用 REST API，这个文档描述了相应的 API 风格指南。
 
-The guiding principal for our style guide is **consistency**.
+我们的风格指南的指导原则是**一致性**。惆怅长岑长
 
 # 方法
 
